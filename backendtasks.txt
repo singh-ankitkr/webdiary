@@ -1,0 +1,27 @@
+The broader tasks for backend will be -
+
+Tech used (nodejs/ express)
+
+-> Setting up mongodb and mongoose
+-> Creating an express app
+-> Connecting app to mongodb using .env file
+-> Creating schema/model for notes.
+-> Creating api for login
+-> Creating api for signup
+-> CRUD for notes
+-> Get all notes api
+-> Sorting support GET all notes based on date
+-> Filtering support using from - to date range
+-> Pagination support on api
+-> Adding authorization to the api using JWT strategy.
+-> Providing login api
+-> Providing sign-up api
+-> Providing update password api
+-> Providing update profile api
+-> forgot password api
+-> Error handling for unhandled routes.
+-> Error handling for application errors.
+-> Error handling for uncaught promise errors and uncaught exceptions.
+-> Cors handling.
+-> Add testing for apis.
+-> Heroku deployment.

@@ -1,0 +1,19 @@
+Webdiary should provide the following functionalities to the user -
+
+-- User -- 
+1) Able to signup
+2) Able to login
+3) Reset password with forgot password
+4) Ability to change password
+5) Ability to update profile
+
+-- Note -- 
+6) Create a note
+7) See all previous notes
+8) Edit previous note
+9) Delete a note
+10) view note
+11) sort note based on dates
+12) pagination for notes
+
+** Features can be extended by adding comment support for notes as well.
