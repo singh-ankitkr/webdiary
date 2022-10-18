@@ -1,0 +1,11 @@
+The frontend tasks are broken down here -
+
+-> Use nextjs to scaffold the web app
+-> Add signup page
+-> Add login page
+-> home page to show all existing notes with pagination
+-> Top Navigation bar with home, logout, edit profile, Take note buttons
+-> Take notes page
+-> Edit notes page
+-> add sorting and filtering to the notes
+-> add cypress e2e tests.
